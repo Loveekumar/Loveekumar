@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 
-<img align = "right" alt = "coding" width = "400" src = "https://github.com/Loveekumar/Loveekumar/assets/86568214/8471b7b8-3154-41bc-babf-07787cfa924c">
+<img align = "right" alt = "coding" width = "400" src = "https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loveekumar&label=Profile%20views&color=0e75b6&style=flat" alt="loveekumar" /> </p>
 
 - 🌱 I’m currently learning **Data Science**
