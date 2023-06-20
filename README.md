@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lovee Kumar</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
 <img align = "right" alt = "coding" wifth = "400" src = "https://www.algosoft.co/assets/front/image/data_analytics.png">
 
