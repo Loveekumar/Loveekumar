@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [Data Analytics]
 
-- 💬 Ask me about **Excel, SQL, Power BI, Python, Matplotlib, statistics**
+- 💬 Ask me about **Excel, SQL, Power BI, Sython, Matplotlib, Statistics, machine Learning**
 
 - 📫 How to reach me **loveekumar111@gmail.com**
 
