@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Loveekumar](https://github.com/Loveekumar)
 
-- 📝 I regularly write articles on [Data Analytics]
+- 📝 I regularly write articles on [Data Analytics, Data Engineer]
 
-- 💬 Ask me about **Excel, SQL, Power BI, Python, Matplotlib, StatisticS, ML**
+- 💬 Ask me about **Excel, SQL, Power BI, Python, Databricks, Spark, AWS**
 
 - 📫 How to reach me **loveekumar111@gmail.com**
 
