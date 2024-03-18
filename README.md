@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lovee Kumar</h1>
-<h3 align="center">Data Engineer At Digivate Labs</h3>
+<h3 align="center">Data Engineer </h3>
 
 
 <img align = "right" alt = "coding" width = "400" src = "https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loveekumar&label=Profile%20views&color=0e75b6&style=flat" alt="loveekumar" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱  Currently working as a **Data Engineer** **At Digivate Labs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Loveekumar](https://github.com/Loveekumar)
 
