@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lovee Kumar</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">Data Engineer At Digivate Labs</h3>
 
 
 <img align = "right" alt = "coding" width = "400" src = "https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif">
